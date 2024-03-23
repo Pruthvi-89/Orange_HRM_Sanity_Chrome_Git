@@ -1,0 +1,495 @@
+2024-03-21 19:17:40,614: INFO : Test_EMP_Search : test_EMP_Search005 23 : opening Browser
+2024-03-21 19:17:51,078: INFO : Test_EMP_Search : test_EMP_Search005 27 : Entering Username-->Admin
+2024-03-21 19:17:51,224: INFO : Test_EMP_Search : test_EMP_Search005 29 : Entering Password-->admin123
+2024-03-21 19:17:51,332: INFO : Test_EMP_Search : test_EMP_Search005 31 : click on Login Button
+2024-03-21 19:17:54,482: INFO : Test_EMP_Search : test_EMP_Search005 34 : click on Pim Button 
+2024-03-21 19:17:55,025: INFO : Test_EMP_Search : test_EMP_Search005 37 : Entering EMPName
+2024-03-21 19:17:59,130: INFO : Test_EMP_Search : test_EMP_Search005 40 : Click On Search Button
+2024-03-21 19:17:59,131: INFO : Test_EMP_Search : test_EMP_Search005 41 : Search Found
+2024-03-21 19:19:21,172: INFO : Test_EMP_Search : test_EMP_Search005 23 : opening Browser
+2024-03-21 19:19:32,253: INFO : Test_EMP_Search : test_EMP_Search005 27 : Entering Username-->Admin
+2024-03-21 19:19:32,415: INFO : Test_EMP_Search : test_EMP_Search005 29 : Entering Password-->admin123
+2024-03-21 19:19:33,951: INFO : Test_EMP_Search : test_EMP_Search005 31 : click on Login Button
+2024-03-21 19:19:35,639: INFO : Test_EMP_Search : test_EMP_Search005 34 : click on Pim Button 
+2024-03-21 19:19:36,283: INFO : Test_EMP_Search : test_EMP_Search005 37 : Entering EMPName
+2024-03-21 19:19:40,447: INFO : Test_EMP_Search : test_EMP_Search005 40 : Click On Search Button
+2024-03-21 19:19:40,447: INFO : Test_EMP_Search : test_EMP_Search005 41 : Search Found
+2024-03-21 19:19:44,813: INFO : Test_EMP_Search : test_EMP_Search005 56 : click On Menu Button
+2024-03-21 19:19:45,728: INFO : Test_EMP_Search : test_EMP_Search005 58 : click On Logout Button
+2024-03-21 19:19:45,965: INFO : Test_EMP_Search : test_EMP_Search005 60 : Test case005 is Failed
+2024-03-21 19:21:50,882: INFO : Test_EMP_Search : test_EMP_Search005 23 : opening Browser
+2024-03-21 19:21:59,339: INFO : Test_EMP_Search : test_EMP_Search005 27 : Entering Username-->Admin
+2024-03-21 19:21:59,531: INFO : Test_EMP_Search : test_EMP_Search005 29 : Entering Password-->admin123
+2024-03-21 19:22:00,823: INFO : Test_EMP_Search : test_EMP_Search005 31 : click on Login Button
+2024-03-21 19:22:03,130: INFO : Test_EMP_Search : test_EMP_Search005 34 : click on Pim Button 
+2024-03-21 19:22:03,744: INFO : Test_EMP_Search : test_EMP_Search005 37 : Entering EMPName
+2024-03-21 19:22:07,846: INFO : Test_EMP_Search : test_EMP_Search005 40 : Click On Search Button
+2024-03-21 19:22:07,846: INFO : Test_EMP_Search : test_EMP_Search005 41 : Search Found
+2024-03-21 19:23:28,621: INFO : Test_EMP_Search : test_EMP_Search005 23 : opening Browser
+2024-03-21 19:23:38,636: INFO : Test_EMP_Search : test_EMP_Search005 27 : Entering Username-->Admin
+2024-03-21 19:23:38,787: INFO : Test_EMP_Search : test_EMP_Search005 29 : Entering Password-->admin123
+2024-03-21 19:23:38,888: INFO : Test_EMP_Search : test_EMP_Search005 31 : click on Login Button
+2024-03-21 19:23:42,085: INFO : Test_EMP_Search : test_EMP_Search005 34 : click on Pim Button 
+2024-03-21 19:23:42,617: INFO : Test_EMP_Search : test_EMP_Search005 37 : Entering EMPName
+2024-03-21 19:23:46,721: INFO : Test_EMP_Search : test_EMP_Search005 40 : Click On Search Button
+2024-03-21 19:23:46,723: INFO : Test_EMP_Search : test_EMP_Search005 41 : Search Found
+2024-03-21 19:25:06,061: INFO : Test_EMP_Search : test_EMP_Search005 23 : opening Browser
+2024-03-21 19:25:14,184: INFO : Test_EMP_Search : test_EMP_Search005 27 : Entering Username-->Admin
+2024-03-21 19:25:14,340: INFO : Test_EMP_Search : test_EMP_Search005 29 : Entering Password-->admin123
+2024-03-21 19:25:15,527: INFO : Test_EMP_Search : test_EMP_Search005 31 : click on Login Button
+2024-03-21 19:25:17,464: INFO : Test_EMP_Search : test_EMP_Search005 34 : click on Pim Button 
+2024-03-21 19:25:18,082: INFO : Test_EMP_Search : test_EMP_Search005 37 : Entering EMPName
+2024-03-21 19:25:22,193: INFO : Test_EMP_Search : test_EMP_Search005 40 : Click On Search Button
+2024-03-21 19:25:22,193: INFO : Test_EMP_Search : test_EMP_Search005 41 : Search Found
+2024-03-21 19:25:26,602: INFO : Test_EMP_Search : test_EMP_Search005 56 : click On Menu Button
+2024-03-21 19:25:27,420: INFO : Test_EMP_Search : test_EMP_Search005 58 : click On Logout Button
+2024-03-21 19:25:27,610: INFO : Test_EMP_Search : test_EMP_Search005 60 : Test case005 is Failed
+2024-03-21 19:26:42,639: INFO : Test_Login : test_Login001 20 : Test case 001 is started is started
+2024-03-21 19:26:42,640: INFO : Test_Login : test_Login001 21 : opening browser
+2024-03-21 19:26:55,949: INFO : Test_Login : test_Login001 25 : Going to url--> https://opensource-demo.orangehrmlive.com/
+2024-03-21 19:26:56,138: INFO : Test_Login : test_Login001 29 : Test case 001 is passed
+2024-03-21 19:26:56,145: INFO : Test_Login : test_Login001 30 : Page Tile-->OrangeHRM
+2024-03-21 19:26:56,333: INFO : Test_Login : test_Login001 37 : Test case 001 is Completed
+2024-03-21 19:26:56,333: INFO : Test_Login : test_Login001 40 : Test case is completed
+2024-03-21 19:26:58,818: INFO : Test_Login : test_login02 49 : Test case 002 is started
+2024-03-21 19:26:58,818: INFO : Test_Login : test_login02 50 : opening Browser
+2024-03-21 19:27:09,529: INFO : Test_Login : test_login02 52 : Going To url-->https://opensource-demo.orangehrmlive.com/
+2024-03-21 19:27:10,230: INFO : Test_Login : test_login02 55 : Entering Username-->Admin
+2024-03-21 19:27:10,366: INFO : Test_Login : test_login02 57 : Entering Password-->admin123
+2024-03-21 19:27:10,474: INFO : Test_Login : test_login02 59 : Click on Login Button
+2024-03-21 19:27:12,904: INFO : Test_Login : test_login02 66 : click On Menu Button
+2024-03-21 19:27:14,030: INFO : Test_Login : test_login02 68 : click On Logout Button
+2024-03-21 19:27:14,030: INFO : Test_Login : test_login02 69 : Test case002 is passed
+2024-03-21 19:27:14,121: INFO : Test_Login : test_login02 78 : Test case002 is Completed
+2024-03-21 19:40:08,609: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 23 : opening Browser
+2024-03-21 19:40:08,664: INFO : Test_Login : test_login02 51 : Test case 002 is started
+2024-03-21 19:40:08,664: INFO : Test_Login : test_login02 52 : opening Browser
+2024-03-21 19:40:17,466: INFO : Test_Login : test_login02 54 : Going To url-->https://opensource-demo.orangehrmlive.com/
+2024-03-21 19:40:18,753: INFO : Test_Login : test_login02 57 : Entering Username-->Admin
+2024-03-21 19:40:18,911: INFO : Test_Login : test_login02 59 : Entering Password-->admin123
+2024-03-21 19:40:19,045: INFO : Test_Login : test_login02 61 : Click on Login Button
+2024-03-21 19:40:21,706: INFO : Test_Login : test_login02 68 : click On Menu Button
+2024-03-21 19:40:22,439: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 27 : Entering Username-->Admin
+2024-03-21 19:40:22,577: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 29 : Entering Password-->admin123
+2024-03-21 19:40:22,676: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 31 : click on Login Button
+2024-03-21 19:40:22,717: INFO : Test_Login : test_login02 70 : click On Logout Button
+2024-03-21 19:40:22,717: INFO : Test_Login : test_login02 71 : Test case002 is passed
+2024-03-21 19:40:22,841: INFO : Test_Login : test_login02 80 : Test case002 is Completed
+2024-03-21 19:40:25,889: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 36 : click on Pim Button 
+2024-03-21 19:40:27,544: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 45 : Entering FirstName--->
+2024-03-21 19:40:27,643: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 47 : Entering MiddleName-->
+2024-03-21 19:40:27,756: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 49 : Entering Lastname-->
+2024-03-21 19:40:31,835: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 52 : click on save Button
+2024-03-21 19:40:43,079: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 45 : Entering FirstName--->
+2024-03-21 19:40:43,164: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 47 : Entering MiddleName-->
+2024-03-21 19:40:43,248: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 49 : Entering Lastname-->
+2024-03-21 19:40:47,310: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 52 : click on save Button
+2024-03-21 19:40:58,150: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 45 : Entering FirstName--->
+2024-03-21 19:40:58,250: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 47 : Entering MiddleName-->
+2024-03-21 19:40:58,347: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 49 : Entering Lastname-->
+2024-03-21 19:41:02,410: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 52 : click on save Button
+2024-03-21 19:41:13,282: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 71 : click On Menu Button
+2024-03-21 19:41:14,326: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 73 : click On Logout Button
+2024-03-21 19:41:14,326: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 74 : Test case005 is passed
+2024-03-21 19:41:14,326: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 77 : Test case 005 is passed
+2024-03-21 19:41:14,326: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 83 : Test case005 is Completed
+2024-03-21 19:46:44,290: INFO : Test_Login : test_login02 51 : Test case 002 is started
+2024-03-21 19:46:44,290: INFO : Test_Login : test_login02 52 : opening Browser
+2024-03-21 19:46:44,593: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 23 : opening Browser
+2024-03-21 19:46:45,704: INFO : Test_Login : test_login02 54 : Going To url-->https://opensource-demo.orangehrmlive.com/
+2024-03-21 19:46:55,388: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 27 : Entering Username-->Admin
+2024-03-21 19:46:55,545: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 29 : Entering Password-->admin123
+2024-03-21 19:46:55,652: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 31 : click on Login Button
+2024-03-21 19:46:59,798: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 36 : click on Pim Button 
+2024-03-21 19:47:02,713: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 45 : Entering FirstName--->
+2024-03-21 19:47:02,826: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 47 : Entering MiddleName-->
+2024-03-21 19:47:03,053: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 49 : Entering Lastname-->
+2024-03-21 19:47:07,156: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 52 : click on save Button
+2024-03-21 19:47:07,855: INFO : Test_Login : test_login02 57 : Entering Username-->Admin
+2024-03-21 19:47:08,097: INFO : Test_Login : test_login02 59 : Entering Password-->admin123
+2024-03-21 19:47:09,809: INFO : Test_Login : test_login02 61 : Click on Login Button
+2024-03-21 19:47:11,124: INFO : Test_Login : test_login02 68 : click On Menu Button
+2024-03-21 19:47:13,109: INFO : Test_Login : test_login02 70 : click On Logout Button
+2024-03-21 19:47:13,109: INFO : Test_Login : test_login02 71 : Test case002 is passed
+2024-03-21 19:47:13,234: INFO : Test_Login : test_login02 80 : Test case002 is Completed
+2024-03-21 19:47:17,799: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 45 : Entering FirstName--->
+2024-03-21 19:47:17,888: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 47 : Entering MiddleName-->
+2024-03-21 19:47:17,976: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 49 : Entering Lastname-->
+2024-03-21 19:47:22,063: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 52 : click on save Button
+2024-03-21 19:47:31,496: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 45 : Entering FirstName--->
+2024-03-21 19:47:31,589: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 47 : Entering MiddleName-->
+2024-03-21 19:47:31,726: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 49 : Entering Lastname-->
+2024-03-21 19:47:35,780: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 52 : click on save Button
+2024-03-21 19:47:46,889: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 71 : click On Menu Button
+2024-03-21 19:47:47,823: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 73 : click On Logout Button
+2024-03-21 19:47:47,823: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 74 : Test case005 is passed
+2024-03-21 19:47:47,823: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 80 : Test case 005 is Fail
+2024-03-21 19:51:18,060: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 23 : opening Browser
+2024-03-21 19:51:18,126: INFO : Test_Login : test_login02 51 : Test case 002 is started
+2024-03-21 19:51:18,126: INFO : Test_Login : test_login02 52 : opening Browser
+2024-03-21 19:51:24,932: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 27 : Entering Username-->Admin
+2024-03-21 19:51:25,167: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 29 : Entering Password-->admin123
+2024-03-21 19:51:25,280: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 31 : click on Login Button
+2024-03-21 19:51:28,437: INFO : Test_Login : test_login02 54 : Going To url-->https://opensource-demo.orangehrmlive.com/
+2024-03-21 19:51:28,536: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 36 : click on Pim Button 
+2024-03-21 19:51:29,178: INFO : Test_Login : test_login02 57 : Entering Username-->Admin
+2024-03-21 19:51:29,292: INFO : Test_Login : test_login02 59 : Entering Password-->admin123
+2024-03-21 19:51:29,388: INFO : Test_Login : test_login02 61 : Click on Login Button
+2024-03-21 19:51:30,288: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 45 : Entering FirstName--->
+2024-03-21 19:51:30,390: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 47 : Entering MiddleName-->
+2024-03-21 19:51:30,488: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 49 : Entering Lastname-->
+2024-03-21 19:51:31,939: INFO : Test_Login : test_login02 68 : click On Menu Button
+2024-03-21 19:51:33,818: INFO : Test_Login : test_login02 70 : click On Logout Button
+2024-03-21 19:51:33,819: INFO : Test_Login : test_login02 71 : Test case002 is passed
+2024-03-21 19:51:33,924: INFO : Test_Login : test_login02 80 : Test case002 is Completed
+2024-03-21 19:51:34,555: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 52 : click on save Button
+2024-03-21 19:51:46,362: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 45 : Entering FirstName--->
+2024-03-21 19:51:46,441: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 47 : Entering MiddleName-->
+2024-03-21 19:51:46,524: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 49 : Entering Lastname-->
+2024-03-21 19:51:50,581: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 52 : click on save Button
+2024-03-21 19:52:01,116: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 45 : Entering FirstName--->
+2024-03-21 19:52:01,208: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 47 : Entering MiddleName-->
+2024-03-21 19:52:01,300: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 49 : Entering Lastname-->
+2024-03-21 19:52:05,360: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 52 : click on save Button
+2024-03-21 19:52:15,921: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 71 : click On Menu Button
+2024-03-21 19:52:16,825: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 73 : click On Logout Button
+2024-03-21 19:52:16,825: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 74 : Test case005 is passed
+2024-03-21 19:52:16,825: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 77 : Test case 005 is passed
+2024-03-21 19:52:16,825: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 83 : Test case005 is Completed
+2024-03-21 19:53:45,069: INFO : Test_add_employee : test_add_employee 23 : opening Browser
+2024-03-21 19:53:45,259: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 23 : opening Browser
+2024-03-21 19:53:45,333: INFO : Test_Login : test_login02 51 : Test case 002 is started
+2024-03-21 19:53:45,333: INFO : Test_Login : test_login02 52 : opening Browser
+2024-03-21 19:53:54,273: INFO : Test_add_employee : test_add_employee 27 : Entering Username-->Admin
+2024-03-21 19:53:54,492: INFO : Test_add_employee : test_add_employee 29 : Entering Password-->admin123
+2024-03-21 19:53:54,663: INFO : Test_add_employee : test_add_employee 31 : click on Login Button
+2024-03-21 19:53:54,728: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 27 : Entering Username-->Admin
+2024-03-21 19:53:54,896: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 29 : Entering Password-->admin123
+2024-03-21 19:53:55,818: INFO : Test_Login : test_login02 54 : Going To url-->https://opensource-demo.orangehrmlive.com/
+2024-03-21 19:53:56,318: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 31 : click on Login Button
+2024-03-21 19:53:56,666: INFO : Test_Login : test_login02 57 : Entering Username-->Admin
+2024-03-21 19:53:57,061: INFO : Test_Login : test_login02 59 : Entering Password-->admin123
+2024-03-21 19:53:57,403: INFO : Test_Login : test_login02 61 : Click on Login Button
+2024-03-21 19:53:57,852: INFO : Test_add_employee : test_add_employee 35 : click on Pim Button 
+2024-03-21 19:53:58,095: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 36 : click on Pim Button 
+2024-03-21 19:53:59,203: INFO : Test_add_employee : test_add_employee 37 : click on add employee
+2024-03-21 19:53:59,874: INFO : Test_add_employee : test_add_employee 39 : Entering FirstName-->pruthviraj
+2024-03-21 19:53:59,998: INFO : Test_add_employee : test_add_employee 41 : Entering MiddleName-->Ramesh
+2024-03-21 19:54:00,030: INFO : Test_Login : test_login02 68 : click On Menu Button
+2024-03-21 19:54:00,118: INFO : Test_add_employee : test_add_employee 43 : Entering Lastname-->Deokate
+2024-03-21 19:54:01,122: INFO : Test_Login : test_login02 70 : click On Logout Button
+2024-03-21 19:54:01,123: INFO : Test_Login : test_login02 71 : Test case002 is passed
+2024-03-21 19:54:01,235: INFO : Test_Login : test_login02 80 : Test case002 is Completed
+2024-03-21 19:54:02,202: INFO : Test_add_employee : test_add_employee 46 : click on save Button
+2024-03-21 19:54:07,593: INFO : Test_add_employee : test_add_employee 51 : Test case 003 is failed
+2024-03-21 19:57:41,015: INFO : Test_add_employee : test_add_employee 20 : opening Browser
+2024-03-21 19:57:41,177: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 23 : opening Browser
+2024-03-21 19:57:41,234: INFO : Test_Login : test_login02 51 : Test case 002 is started
+2024-03-21 19:57:41,234: INFO : Test_Login : test_login02 52 : opening Browser
+2024-03-21 19:57:50,754: INFO : Test_Login : test_login02 54 : Going To url-->https://opensource-demo.orangehrmlive.com/
+2024-03-21 19:57:51,227: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 27 : Entering Username-->Admin
+2024-03-21 19:57:51,499: INFO : Test_add_employee : test_add_employee 24 : Entering Username-->Admin
+2024-03-21 19:57:51,617: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 29 : Entering Password-->admin123
+2024-03-21 19:57:51,916: INFO : Test_Login : test_login02 57 : Entering Username-->Admin
+2024-03-21 19:57:51,938: INFO : Test_add_employee : test_add_employee 26 : Entering Password-->admin123
+2024-03-21 19:57:52,038: INFO : Test_add_employee : test_add_employee 28 : click on Login Button
+2024-03-21 19:57:52,102: INFO : Test_Login : test_login02 59 : Entering Password-->admin123
+2024-03-21 19:57:53,204: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 31 : click on Login Button
+2024-03-21 19:57:53,426: INFO : Test_Login : test_login02 61 : Click on Login Button
+2024-03-21 19:57:54,310: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 36 : click on Pim Button 
+2024-03-21 19:57:54,898: INFO : Test_Login : test_login02 68 : click On Menu Button
+2024-03-21 19:57:55,087: INFO : Test_add_employee : test_add_employee 32 : click on Pim Button 
+2024-03-21 19:57:55,657: INFO : Test_Login : test_login02 70 : click On Logout Button
+2024-03-21 19:57:55,657: INFO : Test_Login : test_login02 71 : Test case002 is passed
+2024-03-21 19:57:55,741: INFO : Test_Login : test_login02 80 : Test case002 is Completed
+2024-03-21 19:57:56,213: INFO : Test_add_employee : test_add_employee 34 : click on add employee
+2024-03-21 19:57:56,696: INFO : Test_add_employee : test_add_employee 36 : Entering FirstName
+2024-03-21 19:57:56,799: INFO : Test_add_employee : test_add_employee 38 : Entering MiddleName
+2024-03-21 19:57:56,900: INFO : Test_add_employee : test_add_employee 40 : Entering Lastname
+2024-03-21 19:57:58,961: INFO : Test_add_employee : test_add_employee 43 : click on save Button
+2024-03-21 19:58:04,214: INFO : Test_add_employee : test_add_employee 48 : Test case 003 is failed
+2024-03-21 19:59:33,732: INFO : Test_add_employee : test_add_employee 20 : opening Browser
+2024-03-21 19:59:33,829: INFO : Test_Login : test_login02 51 : Test case 002 is started
+2024-03-21 19:59:33,829: INFO : Test_Login : test_login02 52 : opening Browser
+2024-03-21 19:59:33,863: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 23 : opening Browser
+2024-03-21 19:59:35,032: INFO : Test_Login : test_login02 54 : Going To url-->https://opensource-demo.orangehrmlive.com/
+2024-03-21 19:59:40,934: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 27 : Entering Username-->Admin
+2024-03-21 19:59:41,092: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 29 : Entering Password-->admin123
+2024-03-21 19:59:42,326: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 31 : click on Login Button
+2024-03-21 19:59:44,327: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 36 : click on Pim Button 
+2024-03-21 19:59:45,335: INFO : Test_Login : test_login02 57 : Entering Username-->Admin
+2024-03-21 19:59:45,476: INFO : Test_Login : test_login02 59 : Entering Password-->admin123
+2024-03-21 19:59:45,609: INFO : Test_Login : test_login02 61 : Click on Login Button
+2024-03-21 19:59:46,514: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 45 : Entering FirstName--->
+2024-03-21 19:59:46,608: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 47 : Entering MiddleName-->
+2024-03-21 19:59:46,719: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 49 : Entering Lastname-->
+2024-03-21 19:59:48,141: INFO : Test_Login : test_login02 68 : click On Menu Button
+2024-03-21 19:59:49,081: INFO : Test_Login : test_login02 70 : click On Logout Button
+2024-03-21 19:59:49,081: INFO : Test_Login : test_login02 71 : Test case002 is passed
+2024-03-21 19:59:49,190: INFO : Test_Login : test_login02 80 : Test case002 is Completed
+2024-03-21 19:59:50,797: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 52 : click on save Button
+2024-03-21 20:00:01,341: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 45 : Entering FirstName--->
+2024-03-21 20:00:01,418: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 47 : Entering MiddleName-->
+2024-03-21 20:00:01,498: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 49 : Entering Lastname-->
+2024-03-21 20:00:05,561: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 52 : click on save Button
+2024-03-21 20:00:16,231: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 45 : Entering FirstName--->
+2024-03-21 20:00:16,319: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 47 : Entering MiddleName-->
+2024-03-21 20:00:16,416: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 49 : Entering Lastname-->
+2024-03-21 20:00:20,474: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 52 : click on save Button
+2024-03-21 20:00:31,297: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 71 : click On Menu Button
+2024-03-21 20:00:32,340: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 73 : click On Logout Button
+2024-03-21 20:00:32,344: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 74 : Test case005 is passed
+2024-03-21 20:00:32,344: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 77 : Test case 005 is passed
+2024-03-21 20:00:32,344: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 83 : Test case005 is Completed
+2024-03-21 20:09:15,897: INFO : Test_Login : test_login02 51 : Test case 002 is started
+2024-03-21 20:09:15,897: INFO : Test_Login : test_login02 52 : opening Browser
+2024-03-21 20:09:15,943: INFO : Test_add_employee : test_add_employee 20 : opening Browser
+2024-03-21 20:09:16,007: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 23 : opening Browser
+2024-03-21 20:09:24,972: INFO : Test_Login : test_login02 54 : Going To url-->https://opensource-demo.orangehrmlive.com/
+2024-03-21 20:09:25,837: INFO : Test_Login : test_login02 57 : Entering Username-->Admin
+2024-03-21 20:09:26,025: INFO : Test_Login : test_login02 59 : Entering Password-->admin123
+2024-03-21 20:09:26,240: INFO : Test_Login : test_login02 61 : Click on Login Button
+2024-03-21 20:09:28,640: INFO : Test_Login : test_login02 68 : click On Menu Button
+2024-03-21 20:09:30,175: INFO : Test_Login : test_login02 70 : click On Logout Button
+2024-03-21 20:09:30,177: INFO : Test_Login : test_login02 71 : Test case002 is passed
+2024-03-21 20:09:30,316: INFO : Test_Login : test_login02 80 : Test case002 is Completed
+2024-03-21 20:09:36,408: INFO : Test_add_employee : test_add_employee 24 : Entering Username-->Admin
+2024-03-21 20:09:36,560: INFO : Test_add_employee : test_add_employee 26 : Entering Password-->admin123
+2024-03-21 20:09:38,091: INFO : Test_add_employee : test_add_employee 28 : click on Login Button
+2024-03-21 20:09:40,534: INFO : Test_add_employee : test_add_employee 32 : click on Pim Button 
+2024-03-21 20:09:41,689: INFO : Test_add_employee : test_add_employee 34 : click on add employee
+2024-03-21 20:09:42,283: INFO : Test_add_employee : test_add_employee 36 : Entering FirstName
+2024-03-21 20:09:42,394: INFO : Test_add_employee : test_add_employee 38 : Entering MiddleName
+2024-03-21 20:09:42,494: INFO : Test_add_employee : test_add_employee 40 : Entering Lastname
+2024-03-21 20:09:44,609: INFO : Test_add_employee : test_add_employee 43 : click on save Button
+2024-03-21 20:09:50,061: INFO : Test_add_employee : test_add_employee 48 : Test case 003 is failed
+2024-03-21 20:15:22,170: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 23 : opening Browser
+2024-03-21 20:15:31,919: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 27 : Entering Username-->Admin
+2024-03-21 20:15:32,073: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 29 : Entering Password-->admin123
+2024-03-21 20:15:33,339: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 31 : click on Login Button
+2024-03-21 20:15:35,553: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 36 : click on Pim Button 
+2024-03-21 20:15:37,442: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 45 : Entering FirstName--->
+2024-03-21 20:15:37,543: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 47 : Entering MiddleName-->
+2024-03-21 20:15:37,653: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 49 : Entering Lastname-->
+2024-03-21 20:15:41,727: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 52 : click on save Button
+2024-03-21 20:15:52,069: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 45 : Entering FirstName--->
+2024-03-21 20:15:52,166: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 47 : Entering MiddleName-->
+2024-03-21 20:15:52,254: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 49 : Entering Lastname-->
+2024-03-21 20:15:56,316: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 52 : click on save Button
+2024-03-21 20:16:07,516: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 45 : Entering FirstName--->
+2024-03-21 20:16:07,613: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 47 : Entering MiddleName-->
+2024-03-21 20:16:07,714: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 49 : Entering Lastname-->
+2024-03-21 20:16:11,770: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 52 : click on save Button
+2024-03-21 20:16:22,449: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 71 : click On Menu Button
+2024-03-21 20:16:23,713: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 73 : click On Logout Button
+2024-03-21 20:16:23,713: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 74 : Test case005 is passed
+2024-03-21 20:16:23,713: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 77 : Test case 005 is passed
+2024-03-21 20:16:23,713: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 83 : Test case005 is Completed
+2024-03-21 20:23:40,857: INFO : Test_add_employee : test_add_employee 20 : opening Browser
+2024-03-21 20:23:53,560: INFO : Test_add_employee : test_add_employee 24 : Entering Username-->Admin
+2024-03-21 20:23:53,706: INFO : Test_add_employee : test_add_employee 26 : Entering Password-->admin123
+2024-03-21 20:23:55,482: INFO : Test_add_employee : test_add_employee 28 : click on Login Button
+2024-03-21 20:23:57,216: INFO : Test_add_employee : test_add_employee 32 : click on Pim Button 
+2024-03-21 20:23:58,917: INFO : Test_add_employee : test_add_employee 34 : click on add employee
+2024-03-21 20:23:59,483: INFO : Test_add_employee : test_add_employee 36 : Entering FirstName
+2024-03-21 20:23:59,603: INFO : Test_add_employee : test_add_employee 38 : Entering MiddleName
+2024-03-21 20:23:59,716: INFO : Test_add_employee : test_add_employee 40 : Entering Lastname
+2024-03-21 20:24:01,798: INFO : Test_add_employee : test_add_employee 43 : click on save Button
+2024-03-21 20:24:07,350: INFO : Test_add_employee : test_add_employee 48 : Test case 003 is failed
+2024-03-21 20:32:29,717: INFO : Test_Login : test_login02 51 : Test case 002 is started
+2024-03-21 20:32:29,733: INFO : Test_Login : test_login02 52 : opening Browser
+2024-03-21 20:32:29,774: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 23 : opening Browser
+2024-03-21 20:32:29,828: INFO : Test_add_employee : test_add_employee 20 : opening Browser
+2024-03-21 20:32:37,355: INFO : Test_Login : test_login02 54 : Going To url-->https://opensource-demo.orangehrmlive.com/
+2024-03-21 20:32:38,026: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 27 : Entering Username-->Admin
+2024-03-21 20:32:38,214: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 29 : Entering Password-->admin123
+2024-03-21 20:32:39,474: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 31 : click on Login Button
+2024-03-21 20:32:41,388: INFO : Test_add_employee : test_add_employee 24 : Entering Username-->Admin
+2024-03-21 20:32:41,564: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 36 : click on Pim Button 
+2024-03-21 20:32:41,669: INFO : Test_add_employee : test_add_employee 26 : Entering Password-->admin123
+2024-03-21 20:32:42,980: INFO : Test_add_employee : test_add_employee 28 : click on Login Button
+2024-03-21 20:32:43,307: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 45 : Entering FirstName--->
+2024-03-21 20:32:43,403: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 47 : Entering MiddleName-->
+2024-03-21 20:32:43,532: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 49 : Entering Lastname-->
+2024-03-21 20:32:45,081: INFO : Test_add_employee : test_add_employee 32 : click on Pim Button 
+2024-03-21 20:32:46,670: INFO : Test_add_employee : test_add_employee 34 : click on add employee
+2024-03-21 20:32:47,285: INFO : Test_add_employee : test_add_employee 36 : Entering FirstName
+2024-03-21 20:32:47,394: INFO : Test_add_employee : test_add_employee 38 : Entering MiddleName
+2024-03-21 20:32:47,516: INFO : Test_add_employee : test_add_employee 40 : Entering Lastname
+2024-03-21 20:32:47,605: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 52 : click on save Button
+2024-03-21 20:32:49,587: INFO : Test_add_employee : test_add_employee 43 : click on save Button
+2024-03-21 20:32:58,163: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 45 : Entering FirstName--->
+2024-03-21 20:32:58,225: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 47 : Entering MiddleName-->
+2024-03-21 20:32:58,298: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 49 : Entering Lastname-->
+2024-03-21 20:32:58,827: INFO : Test_add_employee : test_add_employee 53 : Test case 003 is passed
+2024-03-21 20:33:02,362: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 52 : click on save Button
+2024-03-21 20:33:13,687: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 45 : Entering FirstName--->
+2024-03-21 20:33:13,779: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 47 : Entering MiddleName-->
+2024-03-21 20:33:13,866: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 49 : Entering Lastname-->
+2024-03-21 20:33:17,924: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 52 : click on save Button
+2024-03-21 20:33:29,009: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 71 : click On Menu Button
+2024-03-21 20:33:30,185: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 73 : click On Logout Button
+2024-03-21 20:33:30,185: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 74 : Test case005 is passed
+2024-03-21 20:33:30,185: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 77 : Test case 005 is passed
+2024-03-21 20:33:30,185: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 83 : Test case005 is Completed
+2024-03-21 20:33:40,721: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 23 : opening Browser
+2024-03-21 20:33:40,738: INFO : Test_Login : test_login02 51 : Test case 002 is started
+2024-03-21 20:33:40,738: INFO : Test_Login : test_login02 52 : opening Browser
+2024-03-21 20:33:40,774: INFO : Test_add_employee : test_add_employee 20 : opening Browser
+2024-03-21 20:33:47,359: INFO : Test_Login : test_login02 54 : Going To url-->https://opensource-demo.orangehrmlive.com/
+2024-03-21 20:33:48,048: INFO : Test_Login : test_login02 57 : Entering Username-->Admin
+2024-03-21 20:33:48,205: INFO : Test_Login : test_login02 59 : Entering Password-->admin123
+2024-03-21 20:33:49,485: INFO : Test_add_employee : test_add_employee 24 : Entering Username-->Admin
+2024-03-21 20:33:49,501: INFO : Test_Login : test_login02 61 : Click on Login Button
+2024-03-21 20:33:49,657: INFO : Test_add_employee : test_add_employee 26 : Entering Password-->admin123
+2024-03-21 20:33:49,790: INFO : Test_add_employee : test_add_employee 28 : click on Login Button
+2024-03-21 20:33:50,718: INFO : Test_Login : test_login02 68 : click On Menu Button
+2024-03-21 20:33:52,060: INFO : Test_Login : test_login02 70 : click On Logout Button
+2024-03-21 20:33:52,060: INFO : Test_Login : test_login02 71 : Test case002 is passed
+2024-03-21 20:33:52,204: INFO : Test_Login : test_login02 80 : Test case002 is Completed
+2024-03-21 20:33:52,962: INFO : Test_add_employee : test_add_employee 32 : click on Pim Button 
+2024-03-21 20:33:53,325: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 27 : Entering Username-->Admin
+2024-03-21 20:33:53,480: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 29 : Entering Password-->admin123
+2024-03-21 20:33:53,609: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 31 : click on Login Button
+2024-03-21 20:33:54,267: INFO : Test_add_employee : test_add_employee 34 : click on add employee
+2024-03-21 20:33:54,795: INFO : Test_add_employee : test_add_employee 36 : Entering FirstName
+2024-03-21 20:33:54,917: INFO : Test_add_employee : test_add_employee 38 : Entering MiddleName
+2024-03-21 20:33:55,026: INFO : Test_add_employee : test_add_employee 40 : Entering Lastname
+2024-03-21 20:33:56,347: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 36 : click on Pim Button 
+2024-03-21 20:33:57,123: INFO : Test_add_employee : test_add_employee 43 : click on save Button
+2024-03-21 20:33:58,152: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 45 : Entering FirstName--->
+2024-03-21 20:33:58,239: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 47 : Entering MiddleName-->
+2024-03-21 20:33:58,333: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 49 : Entering Lastname-->
+2024-03-21 20:34:02,408: INFO : Test_add_employee : test_add_employee 48 : Test case 003 is failed
+2024-03-21 20:34:02,455: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 52 : click on save Button
+2024-03-21 20:34:11,889: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 45 : Entering FirstName--->
+2024-03-21 20:34:11,987: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 47 : Entering MiddleName-->
+2024-03-21 20:34:12,078: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 49 : Entering Lastname-->
+2024-03-21 20:34:16,139: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 52 : click on save Button
+2024-03-21 20:34:25,503: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 45 : Entering FirstName--->
+2024-03-21 20:34:25,600: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 47 : Entering MiddleName-->
+2024-03-21 20:34:25,698: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 49 : Entering Lastname-->
+2024-03-21 20:34:29,753: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 52 : click on save Button
+2024-03-21 20:34:39,067: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 71 : click On Menu Button
+2024-03-21 20:34:40,365: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 73 : click On Logout Button
+2024-03-21 20:34:40,365: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 74 : Test case005 is passed
+2024-03-21 20:34:40,365: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 80 : Test case 005 is Fail
+2024-03-21 20:39:12,561: INFO : Test_add_employee : test_add_employee 20 : opening Browser
+2024-03-21 20:39:12,585: INFO : Test_Login : test_login02 51 : Test case 002 is started
+2024-03-21 20:39:12,585: INFO : Test_Login : test_login02 52 : opening Browser
+2024-03-21 20:39:12,603: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 23 : opening Browser
+2024-03-21 20:39:21,963: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 27 : Entering Username-->Admin
+2024-03-21 20:39:22,136: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 29 : Entering Password-->admin123
+2024-03-21 20:39:22,274: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 31 : click on Login Button
+2024-03-21 20:39:24,970: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 36 : click on Pim Button 
+2024-03-21 20:39:25,952: INFO : Test_Login : test_login02 54 : Going To url-->https://opensource-demo.orangehrmlive.com/
+2024-03-21 20:39:26,576: INFO : Test_Login : test_login02 57 : Entering Username-->Admin
+2024-03-21 20:39:26,707: INFO : Test_Login : test_login02 59 : Entering Password-->admin123
+2024-03-21 20:39:26,821: INFO : Test_Login : test_login02 61 : Click on Login Button
+2024-03-21 20:39:27,036: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 45 : Entering FirstName--->
+2024-03-21 20:39:27,121: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 47 : Entering MiddleName-->
+2024-03-21 20:39:27,217: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 49 : Entering Lastname-->
+2024-03-21 20:39:29,024: INFO : Test_Login : test_login02 68 : click On Menu Button
+2024-03-21 20:39:30,066: INFO : Test_Login : test_login02 70 : click On Logout Button
+2024-03-21 20:39:30,066: INFO : Test_Login : test_login02 71 : Test case002 is passed
+2024-03-21 20:39:30,179: INFO : Test_Login : test_login02 80 : Test case002 is Completed
+2024-03-21 20:39:31,289: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 52 : click on save Button
+2024-03-21 20:39:41,963: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 45 : Entering FirstName--->
+2024-03-21 20:39:42,067: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 47 : Entering MiddleName-->
+2024-03-21 20:39:42,159: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 49 : Entering Lastname-->
+2024-03-21 20:39:46,222: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 52 : click on save Button
+2024-03-21 20:39:58,061: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 45 : Entering FirstName--->
+2024-03-21 20:39:58,166: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 47 : Entering MiddleName-->
+2024-03-21 20:39:58,284: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 49 : Entering Lastname-->
+2024-03-21 20:40:02,353: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 52 : click on save Button
+2024-03-21 20:40:13,463: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 71 : click On Menu Button
+2024-03-21 20:40:14,704: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 73 : click On Logout Button
+2024-03-21 20:40:14,712: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 74 : Test case005 is passed
+2024-03-21 20:40:14,712: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 77 : Test case 005 is passed
+2024-03-21 20:40:14,712: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 83 : Test case005 is Completed
+2024-03-21 21:07:46,829: INFO : Test_add_employee : test_add_employee 20 : opening Browser
+2024-03-21 21:07:47,043: INFO : Test_Login : test_login02 51 : Test case 002 is started
+2024-03-21 21:07:47,043: INFO : Test_Login : test_login02 52 : opening Browser
+2024-03-21 21:07:47,325: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 23 : opening Browser
+2024-03-21 21:07:57,261: INFO : Test_Login : test_login02 54 : Going To url-->https://opensource-demo.orangehrmlive.com/
+2024-03-21 21:07:57,532: INFO : Test_add_employee : test_add_employee 24 : Entering Username-->Admin
+2024-03-21 21:07:57,627: INFO : Test_add_employee : test_add_employee 26 : Entering Password-->admin123
+2024-03-21 21:07:57,713: INFO : Test_add_employee : test_add_employee 28 : click on Login Button
+2024-03-21 21:07:58,299: INFO : Test_Login : test_login02 57 : Entering Username-->Admin
+2024-03-21 21:07:58,387: INFO : Test_Login : test_login02 59 : Entering Password-->admin123
+2024-03-21 21:07:58,508: INFO : Test_Login : test_login02 61 : Click on Login Button
+2024-03-21 21:08:02,044: INFO : Test_Login : test_login02 68 : click On Menu Button
+2024-03-21 21:08:02,492: INFO : Test_add_employee : test_add_employee 32 : click on Pim Button 
+2024-03-21 21:08:03,242: INFO : Test_Login : test_login02 70 : click On Logout Button
+2024-03-21 21:08:03,243: INFO : Test_Login : test_login02 71 : Test case002 is passed
+2024-03-21 21:08:03,344: INFO : Test_Login : test_login02 80 : Test case002 is Completed
+2024-03-21 21:08:04,020: INFO : Test_add_employee : test_add_employee 34 : click on add employee
+2024-03-21 21:08:04,436: INFO : Test_add_employee : test_add_employee 36 : Entering FirstName
+2024-03-21 21:08:04,505: INFO : Test_add_employee : test_add_employee 38 : Entering MiddleName
+2024-03-21 21:08:04,571: INFO : Test_add_employee : test_add_employee 40 : Entering Lastname
+2024-03-21 21:08:06,638: INFO : Test_add_employee : test_add_employee 43 : click on save Button
+2024-03-21 21:08:07,287: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 27 : Entering Username-->Admin
+2024-03-21 21:08:07,376: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 29 : Entering Password-->admin123
+2024-03-21 21:08:07,458: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 31 : click on Login Button
+2024-03-21 21:08:11,430: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 36 : click on Pim Button 
+2024-03-21 21:08:12,097: INFO : Test_add_employee : test_add_employee 48 : Test case 003 is failed
+2024-03-21 21:08:13,484: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 45 : Entering FirstName--->
+2024-03-21 21:08:13,538: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 47 : Entering MiddleName-->
+2024-03-21 21:08:13,643: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 49 : Entering Lastname-->
+2024-03-21 21:08:17,690: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 52 : click on save Button
+2024-03-21 21:08:27,723: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 45 : Entering FirstName--->
+2024-03-21 21:08:27,768: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 47 : Entering MiddleName-->
+2024-03-21 21:08:27,821: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 49 : Entering Lastname-->
+2024-03-21 21:08:31,864: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 52 : click on save Button
+2024-03-21 21:08:41,555: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 45 : Entering FirstName--->
+2024-03-21 21:08:41,617: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 47 : Entering MiddleName-->
+2024-03-21 21:08:41,673: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 49 : Entering Lastname-->
+2024-03-21 21:08:45,714: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 52 : click on save Button
+2024-03-21 21:08:56,922: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 71 : click On Menu Button
+2024-03-21 21:08:57,654: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 73 : click On Logout Button
+2024-03-21 21:08:57,654: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 74 : Test case005 is passed
+2024-03-21 21:08:57,654: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 77 : Test case 005 is passed
+2024-03-21 21:08:57,654: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 83 : Test case005 is Completed
+2024-03-21 21:09:17,525: INFO : Test_Login : test_login02 51 : Test case 002 is started
+2024-03-21 21:09:17,554: INFO : Test_Login : test_login02 52 : opening Browser
+2024-03-21 21:09:17,773: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 23 : opening Browser
+2024-03-21 21:09:17,852: INFO : Test_add_employee : test_add_employee 20 : opening Browser
+2024-03-21 21:09:30,683: INFO : Test_add_employee : test_add_employee 24 : Entering Username-->Admin
+2024-03-21 21:09:30,980: INFO : Test_add_employee : test_add_employee 26 : Entering Password-->admin123
+2024-03-21 21:09:31,099: INFO : Test_add_employee : test_add_employee 28 : click on Login Button
+2024-03-21 21:09:32,825: INFO : Test_Login : test_login02 54 : Going To url-->https://opensource-demo.orangehrmlive.com/
+2024-03-21 21:09:34,008: INFO : Test_Login : test_login02 57 : Entering Username-->Admin
+2024-03-21 21:09:34,260: INFO : Test_add_employee : test_add_employee 32 : click on Pim Button 
+2024-03-21 21:09:34,322: INFO : Test_Login : test_login02 59 : Entering Password-->admin123
+2024-03-21 21:09:34,384: INFO : Test_Login : test_login02 61 : Click on Login Button
+2024-03-21 21:09:35,398: INFO : Test_add_employee : test_add_employee 34 : click on add employee
+2024-03-21 21:09:35,844: INFO : Test_add_employee : test_add_employee 36 : Entering FirstName
+2024-03-21 21:09:35,928: INFO : Test_add_employee : test_add_employee 38 : Entering MiddleName
+2024-03-21 21:09:35,996: INFO : Test_add_employee : test_add_employee 40 : Entering Lastname
+2024-03-21 21:09:37,603: INFO : Test_Login : test_login02 68 : click On Menu Button
+2024-03-21 21:09:38,087: INFO : Test_add_employee : test_add_employee 43 : click on save Button
+2024-03-21 21:09:38,570: INFO : Test_Login : test_login02 70 : click On Logout Button
+2024-03-21 21:09:38,570: INFO : Test_Login : test_login02 71 : Test case002 is passed
+2024-03-21 21:09:38,659: INFO : Test_Login : test_login02 80 : Test case002 is Completed
+2024-03-21 21:09:43,671: INFO : Test_add_employee : test_add_employee 48 : Test case 003 is failed
+2024-03-21 21:09:45,083: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 27 : Entering Username-->Admin
+2024-03-21 21:09:45,173: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 29 : Entering Password-->admin123
+2024-03-21 21:09:45,248: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 31 : click on Login Button
+2024-03-21 21:09:53,928: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 36 : click on Pim Button 
+2024-03-21 21:09:56,119: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 45 : Entering FirstName--->
+2024-03-21 21:09:56,173: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 47 : Entering MiddleName-->
+2024-03-21 21:09:56,237: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 49 : Entering Lastname-->
+2024-03-21 21:10:00,283: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 52 : click on save Button
+2024-03-21 21:10:10,152: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 45 : Entering FirstName--->
+2024-03-21 21:10:10,208: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 47 : Entering MiddleName-->
+2024-03-21 21:10:10,256: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 49 : Entering Lastname-->
+2024-03-21 21:10:14,295: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 52 : click on save Button
+2024-03-21 21:10:24,651: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 45 : Entering FirstName--->
+2024-03-21 21:10:24,702: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 47 : Entering MiddleName-->
+2024-03-21 21:10:24,756: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 49 : Entering Lastname-->
+2024-03-21 21:10:28,802: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 52 : click on save Button
+2024-03-21 21:10:39,428: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 71 : click On Menu Button
+2024-03-21 21:10:40,240: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 73 : click On Logout Button
+2024-03-21 21:10:40,242: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 74 : Test case005 is passed
+2024-03-21 21:10:40,242: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 77 : Test case 005 is passed
+2024-03-21 21:10:40,242: INFO : Test_add_employee_DDT : test_add_employee_DDT_005 83 : Test case005 is Completed
